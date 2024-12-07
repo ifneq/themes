@@ -27,4 +27,4 @@ Instructions
     mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.local/share/warp-terminal/themes/
 
 ## Contributing
-This Project is mainly for **Non-Image** based backgrounds
+This Project is mainly for **Non-Image Non-Transparent** based backgrounds
