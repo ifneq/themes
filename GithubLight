@@ -1,0 +1,25 @@
+name: GitHub Light # Name for the theme
+accent: '#5a32a3' # Accent color for UI elements
+cursor: '#383d42' # Input cursor color
+background: '#ffffff' # Terminal background color
+foreground: '#383d42' # The foreground color
+details: lighter # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#e1e3e5' # Selection bg
+    blue: '#005cc5' # Function, methods, headings
+    cyan: '#8263EB' # Support, regex, escape chars
+    green: '#4c2889' # Strings, Inherited Class, Markup Code
+    magenta: '#b93a86' # Integers, Boolean, Constants
+    red: '#DE2C2E' # Keywords
+    white: '#24292e' # Light bg (not often used)
+    yellow: '#b08800' # Classes, Markup Bold, Search Text Background
+  normal:
+    black: '#ffffff' # Default background
+    blue: '#005cc5' # Function, methods, headings
+    cyan: '#8263EB' # Support, regex, escape chars
+    green: '#4c2889' # Strings, Inherited Class, Markup Code
+    magenta: '#b93a86' # Integers, Boolean, Constants
+    red: '#DE2C2E' # Keywords
+    white: '#383d42' # Default foreground
+    yellow: '#b08800' # Classes, Markup Bold, Search Text Background
