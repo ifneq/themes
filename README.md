@@ -1,5 +1,6 @@
 # Warp Themes
-Base16 themes built for Warp Terminal Emulator
+Base16 themes built for Warp Terminal Emulator.
+
 The reason behind this repository existing is that using https://terminal-themes.com/ sucks because everyone uploaded the default theme.
 
 
