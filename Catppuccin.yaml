@@ -1,0 +1,25 @@
+name: Catppuccin # Name for the theme
+accent: '#F38BA8' # Accent color for UI elements
+cursor: '#bfc6d4' # Input cursor color
+background: '#1E1D2D' # Terminal background color
+foreground: '#bfc6d4' # The foreground color
+details: darker # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#2f2e3e' # Darker background
+    blue: '#89B4FA' # Functions, methods, headings
+    cyan: '#89DCEB' # Support, regex, escape chars
+    green: '#ABE9B3' # Strings, Inherited Class, Markup Code
+    magenta: '#CBA6F7' # Keywords
+    red: '#F38BA8' # Variables, Diff Deleted
+    white: '#D9E0EE' # Lightest background
+    yellow: '#FAE3B0' # Classes, Markup Bold, Search Text Background
+  normal:
+    black: '#1E1D2D' # Default background
+    blue: '#89B4FA' # Functions, methods, headings
+    cyan: '#89DCEB' # Support, regex, escape chars
+    green: '#ABE9B3' # Strings, Inherited Class, Markup Code
+    magenta: '#CBA6F7' # Keywords
+    red: '#F38BA8' # Variables, Diff Deleted
+    white: '#bfc6d4' # Default foreground
+    yellow: '#FAE3B0' # Classes, Markup Bold, Search Text Background
