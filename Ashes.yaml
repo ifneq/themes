@@ -1,0 +1,25 @@
+name: Ashes # Name for the theme
+accent: '#c7ae95' # Accent color for UI elements
+cursor: '#c7ccd1' # Input cursor color
+background: '#1c2023' # Terminal background color
+foreground: '#c7ccd1' # The foreground color
+details: darker # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#303437'
+    blue: '#95aec7'
+    cyan: '#95aec7'
+    green: '#95c7ae'
+    magenta: '#c795ae'
+    red: '#c79595'
+    white: '#f3f4f5'
+    yellow: '#aec795'
+  normal:
+    black: '#1c2023'
+    blue: '#ae95c7'
+    cyan: '#95aec7'
+    green: '#95c7ae'
+    magenta: '#ae95c7'
+    red: '#c7ae95'
+    white: '#c7ccd1'
+    yellow: '#c7c795'
