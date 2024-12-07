@@ -1,2 +1,2 @@
 # Themes
-Base16 themes built for Warp
+Base16 themes built for Warp Terminal Emulator
