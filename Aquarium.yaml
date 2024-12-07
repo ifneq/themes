@@ -1,0 +1,25 @@
+name: Aquarium # Name for the theme
+accent: '#ebb9b9' # Accent color for UI elements
+cursor: '#ced4df' # Input cursor color
+background: '#20202A' # Terminal background color
+foreground: '#bac0cb' # The foreground color
+details: darker # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#3e3e48'
+    blue: '#BCCAEB'
+    cyan: '#b8dceb'
+    green: '#BEE0A8'
+    magenta: '#f6bbe7'
+    red: '#EAC1C1'
+    white: '#ced4df'
+    yellow: '#EEE8BA'
+  normal:
+    black: '#20202A'
+    blue: '#CDDBF9'
+    cyan: '#b8dceb'
+    green: '#b1dba4'
+    magenta: '#E8B6E9'
+    red: '#ebb9b9'
+    white: '#bac0cb'
+    yellow: '#E6DFB8'
