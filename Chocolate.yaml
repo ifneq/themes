@@ -1,0 +1,25 @@
+name: Chocolate # Name for the theme
+accent: '#c65f5f' # Accent color for UI elements
+cursor: '#beae94' # Input cursor color
+background: '#252221' # Terminal background color
+foreground: '#c8bAA4' # The foreground color
+details: darker # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#2f2c2b'
+    blue: '#7d92a2'
+    cyan: '#998396'
+    green: '#8ca589'
+    magenta: '#c65f5f'
+    red: '#d08b65'
+    white: '#cdc0ad'
+    yellow: '#d9b27c'
+  normal:
+    black: '#252221'
+    blue: '#7d92a2'
+    cyan: '#998396'
+    green: '#8ca589'
+    magenta: '#c65f5f'
+    red: '#c65f5f'
+    white: '#c8bAA4'
+    yellow: '#d9b27c'
