@@ -14,7 +14,7 @@ Instructions
     ~/.warp/themes/
     So for example, after downloading the files, you can run something like:
 
-    ``mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.warp/themes/``
+    mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.warp/themes/
 
 ### Linux
 Manual Installation
@@ -24,7 +24,7 @@ Instructions
     ~/.local/share/warp-terminal/themes/
     So for example, after downloading the files, you can run something like:
 
-    ``mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.local/share/warp-terminal/themes/``
+    mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.local/share/warp-terminal/themes/
 
 ## Contributing
 This Project is mainly for **Non-Image** based backgrounds
