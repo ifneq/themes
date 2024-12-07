@@ -23,3 +23,6 @@ Instructions
     So for example, after downloading the files, you can run something like:
 
     ``mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.local/share/warp-terminal/themes/``
+
+## Contributing
+This Project is mainly for **Non-Image** based backgrounds
