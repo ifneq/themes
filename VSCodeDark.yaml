@@ -1,0 +1,25 @@
+name: VSCode Dark # Name for the theme
+accent: '#D16969' # Accent color for UI elements
+cursor: '#D4D4D4' # Input cursor color
+background: '#1E1E1E' # Terminal background color
+foreground: '#D4D4D4' # The foreground color
+details: darker # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#303030' # Darker background
+    blue: '#9CDCFE' # Cyan (Support, regex, escape chars)
+    cyan: '#9CDCFE' # Cyan (Support, regex, escape chars)
+    green: '#B5CEA8' # Integers, Boolean, Constants
+    magenta: '#C586C0' # Keywords
+    red: '#D16969' # Variables, Diff Deleted
+    white: '#FFFFFF' # Lightest bg (not often used)
+    yellow: '#D7BA7D' # Classes, Markup Bold, Search Text Background
+  normal:
+    black: '#1E1E1E' # Default bg
+    blue: '#9CDCFE' # Cyan (Support, regex, escape chars)
+    cyan: '#9CDCFE' # Cyan (Support, regex, escape chars)
+    green: '#B5CEA8' # Integers, Boolean, Constants
+    magenta: '#C586C0' # Keywords
+    red: '#D16969' # Variables, Diff Deleted
+    white: '#D4D4D4' # Default fg
+    yellow: '#D7BA7D' # Classes, Markup Bold, Search Text Background
