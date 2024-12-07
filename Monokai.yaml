@@ -1,0 +1,25 @@
+name: Monokai # Name for the theme
+accent: '#f92672' # Accent color for UI elements
+cursor: '#f8f8f2' # Input cursor color
+background: '#272822' # Terminal background color
+foreground: '#f8f8f2' # The foreground color
+details: darker # Whether the theme is lighter or darker
+terminal_colors: # Ansi escape colors
+  bright:
+    black: '#49483e' # Darker background
+    blue: '#66d9ef' # Function, methods, headings
+    cyan: '#a1efe4' # Support, regex, escape chars
+    green: '#a6e22e' # Strings, Inherited Class, Markup Code
+    magenta: '#ae81ff' # Keywords
+    red: '#f92672' # Variables, Diff Deleted
+    white: '#f9f8f5' # Lightest background
+    yellow: '#f4bf75' # Classes, Markup Bold, Search Text Background
+  normal:
+    black: '#272822' # Default background
+    blue: '#66d9ef' # Function, methods, headings
+    cyan: '#a1efe4' # Support, regex, escape chars
+    green: '#a6e22e' # Strings, Inherited Class, Markup Code
+    magenta: '#ae81ff' # Keywords
+    red: '#f92672' # Variables, Diff Deleted
+    white: '#f8f8f2' # Default foreground
+    yellow: '#f4bf75' # Classes, Markup Bold, Search Text Background
