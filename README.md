@@ -1,7 +1,10 @@
 # Themes
 Base16 themes built for Warp Terminal Emulator
 
-## MacOS
+
+## Installation
+
+### MacOS
 Manual Installation
 Instructions
     Download the theme
@@ -11,7 +14,7 @@ Instructions
 
     ``mv /Users/USERNAME/Downloads/warp_dark.yaml ~/.warp/themes/``
 
-## Linux
+### Linux
 Manual Installation
 Instructions
     Download the theme
